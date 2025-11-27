@@ -1,0 +1,41 @@
+,SLS_Facility,Energy,EnergyData,Link,PublishedYear
+0,ALBA-Spain,Mid,3 GeV,https://lightsources.org/lightsources-of-the-world/europe/alba/,2005.0
+1,ALS-USA,Low,1.9GeV,https://lightsources.org/lightsources-of-the-world/americas/advanced-light-source-als/,1991.0
+2,ANKA-Germany,Mid,2.5 GeV,https://www.ibpt.kit.edu/kara.php,2014.0
+3,APS-USA,High,7GeV,https://lightsources.org/lightsources-of-the-world/americas/advanced-photon-source-aps/,1970.0
+4,AS-Australian,Mid,3GeV,https://lightsources.org/lightsources-of-the-world/asia-oceania/australian-synchrotron/,2006.0
+5,ASRC-Japan,Low,1.2 GeV,https://nucleus.iaea.org/sites/accelerators/Lists/Synchrotron/DispForm.aspx?ID=25&ContentTypeId=0x01005EB756F7B541A249A9B35C189C69AB14,2014.0
+6,BESSY-Germany,Low,1.72GeV,https://lightsources.org/lightsources-of-the-world/europe/bessy-ii-helmholz-zentrum-berlin-hzb/,1992.0
+7,BSRF-China,Mid,2.5 GeV,http://bsrf.ihep.cas.cn/facility/guangshuxian/200911/t20091117_2660418.html,1992.0
+8,CANDL-Armenia,Mid,3 GeV,https://en.wikipedia.org/wiki/CANDLE_Synchrotron_Research_Institute,2013.0
+9,CHESS-USA,High,6GeV,https://lightsources.org/lightsources-of-the-world/americas/cornell-high-energy-synchrotron-source-chess/,1997.0
+10,CLS-Canada,Mid,2.9GeV,https://lightsources.org/lightsources-of-the-world/americas/canadian-light-source-cls/,2006.0
+11,DAFNE-Italy,Low,0.51 GeV,https://dafne-light.lnf.infn.it/beamlines/,2010.0
+12,DESRF-Germany,Low,1.5 GeV,https://delta.tu-dortmund.de/en/,2009.0
+13,Diamond-UK,Mid,3GeV,https://lightsources.org/lightsources-of-the-world/europe/diamond-light-source/,1983.0
+14,ELETTA-Italy,Low,2GeV,https://lightsources.org/lightsources-of-the-world/europe/elettra/,1994.0
+15,ELSA-Germany,Mid,3.2 GeV,https://www-elsa.physik.uni-bonn.de/elsahome.html,1968.0
+16,ESRF-France,High,6GeV,https://lightsources.org/lightsources-of-the-world/europe/esrf/,1979.0
+17,HSRC-Japan,Low,0.7 GeV,https://en.wikipedia.org/wiki/Hiroshima_Synchrotron_Radiation_Center,2008.0
+18,ISRF-Denmark,Low,0.58GeV,https://www.isa.au.dk/facilities/astrid2/astrid2.asp,1983.0
+19,KSRS-Russia,Mid,2.5 GeV,http://kcsni.nrcki.ru/pages/en/source/index.shtml,2004.0
+20,LNLS-Brazil,Mid,3 GeV,https://lightsources.org/lightsources-of-the-world/americas/brazilian-synchrotron-light-laboratory/,1985.0
+21,MAXIV-Sweden,Mid,3 GeV,https://lightsources.org/lightsources-of-the-world/europe/max-iv-laboratory/,1982.0
+22,MLS-Germany,Low,0.63GeV,https://www.ptb.de/cms/en/ptb/fachabteilungen/abt7/ptb-sr/mls/storage-ring.html,1957.0
+23,NSLSii-USA,Mid,3GeV,https://lightsources.org/lightsources-of-the-world/americas/national-synchrotron-light-source-ii/,1984.0
+24,NSRL-China,Low,0.8GeV,https://www.nsrl.ustc.edu.cn/10967/list.htm,1971.0
+25,NSRRC-Taiwan(China),Mid,3GeV,https://lightsources.org/lightsources-of-the-world/asia-oceania/national-synchrotron-radiation-research-center/,2003.0
+26,PETRA-Germany,High,6.08GeV,https://lightsources.org/lightsources-of-the-world/europe/petra-iii-at-desy/,1950.0
+27,PF-Japan,Mid,2.5 GeV,https://lightsources.org/lightsources-of-the-world/asia-oceania/photon-factory/,1969.0
+28,PLS-Korea,Mid,3GeV,https://lightsources.org/lightsources-of-the-world/asia-oceania/pohang-light-source-ii-pls-ii/,2008.0
+29,RUSRC-Japan,Low,0.575 GeV,https://www.ritsumei.ac.jp/acd/re/src/aurora.html,2009.0
+30,SAGA-Japan,Low,1.4 GeV,https://nucleus.iaea.org/sites/accelerators/Lists/Synchrotron/DispForm.aspx?ID=32&ContentTypeId=0x01005EB756F7B541A249A9B35C189C69AB14,2004.0
+31,SESAME-Jordan,Mid,2.5 GeV,https://lightsources.org/lightsources-of-the-world/europe/sesame-2/,2012.0
+32,SLS-Switzerland,Mid,2.4GeV,https://lightsources.org/lightsources-of-the-world/europe/swiss-light-source-sls/,2007.0
+33,SOLARIS-Poland,Low,1.5 GeV,https://lightsources.org/lightsources-of-the-world/europe/synchrotron-solaris/,2018.0
+34,SOLEIL-France,Mid,2.75 GeV,https://ihep.cas.cn/kxcb/zmsys/201006/t20100617_2883375.html,2005.0
+35,Spring8-Japan,High,8GeV,http://www.spring8.or.jp/en/about_us/whats_sp8/facilities/accelerators/storage_ring/,1999.0
+36,SSLS-Singapore,Low,0.7 GeV,https://ssls.nus.edu.sg/aboutus.html,2015.0
+37,SSRF-China,Mid,3.5GeV,https://ssrf.sari.ac.cn/nzzjs/njsq/,2000.0
+38,SSRL-USA,Mid,3 GeV,https://lightsources.org/lightsources-of-the-world/americas/stanford-synchrotron-radiation-lightsource-ssrl/,1983.0
+39,USORF-Japan,Low,0.75 GeV,https://www.uvsor.ims.ac.jp/eng/about/accelerator.html,1997.0
